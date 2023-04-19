@@ -3,7 +3,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"gomoduletest/traceroute"
+
+	"github.com/Kseleven/traceroute-go"
 )
 
 func main() {

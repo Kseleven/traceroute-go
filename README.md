@@ -19,4 +19,8 @@ make
 
 ```
 traceroute-go --help
+
+#simple usage
+sudo traceroute-go -f 1 -m 30 -w 2 8.8.8.8
 ```
+
